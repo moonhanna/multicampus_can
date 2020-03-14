@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1004278919748",
+    "firebase_url": "https://notification-pad.firebaseio.com",
+    "project_id": "notification-pad",
+    "storage_bucket": "notification-pad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004278919748:android:373479b6b4657d2ef30211",
+        "android_client_info": {
+          "package_name": "com.example.pad2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004278919748-o248gjhcqfbl4h1ts3ci9nuki925fvjb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIpt7x1nj4wg6RhVKZvU8keGCI2nfaXGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004278919748-o248gjhcqfbl4h1ts3ci9nuki925fvjb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
